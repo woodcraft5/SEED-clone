@@ -1,10 +1,10 @@
 {
-	"name": "SPEED Dclone Bot",
-	"description": "SPEED Dclone Bot",
-	"repository": "https://github.com/woodcraft5/SeedDclone",
+	"name": "SEED clone Bot",
+	"description": "SEED clone Bot",
+	"repository": "https://github.com/woodcraft5/SEED-clone",
 	"keywords": ["fclone","FG"],
         "website": "https://t.me/woodcraft5",
-        "success_url": "https://github.com/woodcraft5/SeedDclone/blob/main/README.md",
+        "success_url": "https://github.com/woodcraft5/SEED-clone/blob/main/README.md",
 	"env": {
 		"telegram_token": {
 			"description": "Get one from @botfather by creating new bot"
