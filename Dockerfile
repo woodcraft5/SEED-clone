@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM woodcraftbot/mltb:heroku
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
